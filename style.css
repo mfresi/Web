@@ -1,0 +1,35 @@
+div {
+	text-align:center;
+	}
+.entete{
+    background-color:#00CCFF;
+    height:50px;
+    width:600px;
+}
+.corps{
+    background-color:#FFCC00;
+    height:400px;
+    width:600px;
+}
+.menu {
+	float:left;
+	width:100px;
+	height:400px;
+	background-color:#FF6699;
+    }
+    .menuhaut {
+        width:100px;
+        height:200px;
+        background-color:#66CC33;
+        }
+    .menubas {
+        width:100px;
+        height:200px;
+        background-color:#CC99CC;
+        }
+        .piedpage{
+            background-color:#33FF99;
+            height:50px;
+            width:600px;
+        }
+    
